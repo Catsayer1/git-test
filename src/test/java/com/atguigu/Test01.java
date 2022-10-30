@@ -9,5 +9,6 @@ public class Test01 {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("true111 = " + true);
+        System.out.println("true = " + true);
     }
 }
